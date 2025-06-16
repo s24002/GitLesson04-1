@@ -8,7 +8,7 @@
 * s24011
 * s24013
 * s24009 [アイドルマスター](https://www.idolmaster-anime.jp/tv/index2.html)
-* s24012
+* s24012 [葬送のフリーレン](https://frieren-anime.jp/)
 * s24015
 * s24004
 * s24007
