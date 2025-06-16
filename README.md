@@ -15,7 +15,7 @@
 * s24021
 * s24018
 * s24019
-* s24023
+* s24023 [東京喰種](https://www.marv.jp/special/tokyoghoul/first)
 * s24005
 * s24008
 * s24016
