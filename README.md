@@ -22,7 +22,7 @@
 * s24002
 * s24003
 * s24025
-* s24001
+* s24001 [WIND BREAKER](https://wb-anime.net/)
 * s24017
 * s24020
 * s24006
