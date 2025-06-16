@@ -23,7 +23,7 @@
 * s24003
 * s24025
 * s24001
-* s24017
+* s24017[Fate/Grand/Order](https://anime.fate-go.jp/)
 * s24020
 * s24006
 * s24022
