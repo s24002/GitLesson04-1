@@ -7,7 +7,7 @@
 * s24028
 * s24011
 * s24013
-* s24009
+* s24009 [アイドルマスター](https://www.idolmaster-anime.jp/tv/index2.html)
 * s24012
 * s24015
 * s24004
