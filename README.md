@@ -5,7 +5,7 @@
 
 * s24010
 * s24028
-* s24011 神様になった日　https://kamisama-day.jp
+* s24011 [神様になった日]　(https://kamisama-day.jp/)
 * s24013
 * s24009
 * s24012
