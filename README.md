@@ -7,7 +7,7 @@
 * s24028
 * s24011
 * s24013 [DEATH NOTE](https://www.ntv.co.jp/deathnote "DEATH NOTE")
-* s24009
+* s24009 [アイドルマスター](https://www.idolmaster-anime.jp/tv/index2.html)
 * s24012
 * s24015
 * s24004
@@ -22,7 +22,7 @@
 * s24002
 * s24003
 * s24025
-* s24001
+* s24001 [WIND BREAKER](https://wb-anime.net/)
 * s24017
 * s24020
 * s24006
