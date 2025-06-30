@@ -15,7 +15,7 @@
 * s24021
 * s24018
 * s24019
-* s24023
+* s24023 [東京喰種](https://www.marv.jp/special/tokyoghoul/first)
 * s24005 [進撃の巨人](https://shingeki.tv/season1/)
 * s24008
 * s24016 [ちいかわ](https://www.anime-chiikawa.jp/ "ちいかわ")
