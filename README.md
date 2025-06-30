@@ -18,7 +18,7 @@
 * s24023
 * s24005 [進撃の巨人](https://shingeki.tv/season1/)
 * s24008
-* s24016
+* s24016 [ちいかわ](https://www.anime-chiikawa.jp/ "ちいかわ")
 * s24002
 * s24003
 * s24025
