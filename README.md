@@ -14,7 +14,7 @@
 * s24007 [しろくまカフェ](https://shirokumacafe.jp/)
 * s24021
 * s24018
-* s24019
+* s24019 [進撃の巨人 Final Season](https://shingeki.net/#/)
 * s24023 [東京喰種](https://www.marv.jp/special/tokyoghoul/first)
 * s24005 [進撃の巨人](https://shingeki.tv/season1/)
 * s24008
