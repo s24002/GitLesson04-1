@@ -4,27 +4,27 @@
 アニメを教えてください  
 
 * s24010
-* s24028
-* s24011
-* s24013
-* s24009
+* s24028 [とある科学の超電磁砲](https://toaru-project.com/)
+* s24011 [神様になった日](https://kamisama-day.jp/)
+* s24013 [DEATH NOTE](https://www.ntv.co.jp/deathnote "DEATH NOTE")
+* s24009 [アイドルマスター](https://www.idolmaster-anime.jp/tv/index2.html)
 * s24012
-* s24015
+* s24015 [おすすめのアニメ](https://dainanaoji.com "転生したら第七王子だったので~")
 * s24004
-* s24007
+* s24007 [しろくまカフェ](https://shirokumacafe.jp/)
 * s24021
 * s24018
 * s24019
-* s24023
-* s24005
+* s24023 [東京喰種](https://www.marv.jp/special/tokyoghoul/first)
+* s24005 [進撃の巨人](https://shingeki.tv/season1/)
 * s24008
-* s24016
+* s24016 [ちいかわ](https://www.anime-chiikawa.jp/ "ちいかわ")
 * s24002
 * s24003
 * s24025 [ゴールデンカムイ](https://kamuy-anime.com/)
-* s24001
+* s24001 [WIND BREAKER](https://wb-anime.net/)
 * s24017
-* s24020
+* s24020 [『炎炎ノ消防隊](https://fireforce-anime.jp/)
 * s24006
 * s24022
-* s24027
+* s24027 [葬送のフリーレン](https://frieren-anime.jp/)
