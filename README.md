@@ -10,7 +10,7 @@
 * s24009 [アイドルマスター](https://www.idolmaster-anime.jp/tv/index2.html)
 * s24012
 * s24015 [おすすめのアニメ](https://dainanaoji.com "転生したら第七王子だったので~")
-* s24004
+* s24004 [天国大魔境](https://tdm-anime.com/)
 * s24007 [しろくまカフェ](https://shirokumacafe.jp/)
 * s24021
 * s24018
