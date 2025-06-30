@@ -19,7 +19,7 @@
 * s24005 [進撃の巨人](https://shingeki.tv/season1/)
 * s24008
 * s24016 [ちいかわ](https://www.anime-chiikawa.jp/ "ちいかわ")
-* s24002
+* s24002 [サイバーパンク](https://www.netflix.com/jp/title/81054853)
 * s24003
 * s24025 [ゴールデンカムイ](https://kamuy-anime.com/)
 * s24001 [WIND BREAKER](https://wb-anime.net/)
