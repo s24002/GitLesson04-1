@@ -19,7 +19,7 @@
 * s24005
 * s24008
 * s24016
-* s24002 サイバーパンク <https://www.netflix.com/jp/title/81054853>
+* s24002 [サイバーパンク]<https://www.netflix.com/jp/title/81054853>
 * s24003
 * s24025
 * s24001
