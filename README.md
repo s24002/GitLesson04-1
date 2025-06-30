@@ -3,7 +3,7 @@
 あなたのおすすめの
 アニメを教えてください  
 
-* s24010
+* s24010 [寄生獣](https://www.vap.co.jp/kiseiju/)
 * s24028 [とある科学の超電磁砲](https://toaru-project.com/)
 * s24011 [神様になった日](https://kamisama-day.jp/)
 * s24013 [DEATH NOTE](https://www.ntv.co.jp/deathnote "DEATH NOTE")
