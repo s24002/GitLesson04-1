@@ -23,7 +23,7 @@
 * s24003
 * s24025 [ゴールデンカムイ](https://kamuy-anime.com/)
 * s24001 [WIND BREAKER](https://wb-anime.net/)
-* s24017
+* s24017 [Fate/Grand/Order](https://anime.fate-go.jp/)
 * s24020 [『炎炎ノ消防隊](https://fireforce-anime.jp/)
 * s24006
 * s24022
