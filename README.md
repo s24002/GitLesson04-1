@@ -3,6 +3,7 @@
 あなたのおすすめの
 アニメを教えてください  
 
+
 * s24010 [寄生獣](https://www.vap.co.jp/kiseiju/)
 * s24028 [とある科学の超電磁砲](https://toaru-project.com/)
 * s24011 [神様になった日](https://kamisama-day.jp/)
@@ -12,7 +13,7 @@
 * s24015 [おすすめのアニメ](https://dainanaoji.com "転生したら第七王子だったので~")
 * s24004 [天国大魔境](https://tdm-anime.com/)
 * s24007 [しろくまカフェ](https://shirokumacafe.jp/)
-* s24021
+* s24021 [アンパンマン](https://www.anpanman.jp/)
 * s24018 [Re:ゼロから始めるい世界生活](https://re-zero-anime.jp/tv/)
 * s24019 [進撃の巨人 Final Season](https://shingeki.net/#/)
 * s24023 [東京喰種](https://www.marv.jp/special/tokyoghoul/first)
