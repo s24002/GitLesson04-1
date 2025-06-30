@@ -25,6 +25,7 @@
 * s24001 [WIND BREAKER](https://wb-anime.net/)
 * s24017 [Fate/Grand/Order](https://anime.fate-go.jp/)
 * s24020 [『炎炎ノ消防隊](https://fireforce-anime.jp/)
-* s24006
+* s24006 [蛍火の杜へ](https://www.hotarubi.info/story/index.html)
 * s24022 [ヨルムンガンド](https://www.jormungand.tv/ "ヨルムンガンド")
 * s24027 [葬送のフリーレン](https://frieren-anime.jp/)
+
