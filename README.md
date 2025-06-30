@@ -17,7 +17,7 @@
 * s24019 [進撃の巨人 Final Season](https://shingeki.net/#/)
 * s24023 [東京喰種](https://www.marv.jp/special/tokyoghoul/first)
 * s24005 [進撃の巨人](https://shingeki.tv/season1/)
-* s24008
+* s24008 [SAKAMOTO DAYS](https://www.shonenjump.com/j/rensai/sakamoto.html)
 * s24016 [ちいかわ](https://www.anime-chiikawa.jp/ "ちいかわ")
 * s24002 [サイバーパンク](https://www.netflix.com/jp/title/81054853)
 * s24003
