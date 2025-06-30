@@ -17,7 +17,7 @@
 * s24019
 * s24023
 * s24005
-* s24008
+* s24008 [SAKAMOTO DAYS] (https://www.shonenjump.com/j/rensai/sakamoto.html)
 * s24016
 * s24002
 * s24003
