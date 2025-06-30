@@ -26,5 +26,5 @@
 * s24017 [Fate/Grand/Order](https://anime.fate-go.jp/)
 * s24020 [『炎炎ノ消防隊](https://fireforce-anime.jp/)
 * s24006
-* s24022
+* s24022 [ヨルムンガンド](https://www.jormungand.tv/ "ヨルムンガンド")
 * s24027 [葬送のフリーレン](https://frieren-anime.jp/)
